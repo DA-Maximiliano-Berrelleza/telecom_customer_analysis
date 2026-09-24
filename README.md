@@ -35,7 +35,7 @@ Los archivos CSV no se incluyen en el repositorio. Para ejecutar el análisis de
    https://github.com/DA-Maximiliano-Berrelleza/telecom_customer_analysis
    ```
 
-4. Selecciona `notebooks/connectatel_customer_analysis.ipynb`.
+4. Selecciona `telecom_customer_analysis.ipynb`.
 5. Carga `plans.csv`, `users_latam.csv` y `usage.csv` en el directorio principal de la sesión.
 6. Selecciona **Entorno de ejecución → Ejecutar todo**.
 7. Verifica que todas las celdas se ejecuten en orden y sin errores.
