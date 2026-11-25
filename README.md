@@ -1,5 +1,7 @@
 # Análisis de clientes de ConnectaTel
 
+[English](README.en.md)
+
 ## Objetivo del proyecto
 
 Analizar la información de **4,000 clientes** y **40,000 registros de llamadas y mensajes** de ConnectaTel correspondientes a 2024, con el propósito de evaluar la calidad de los datos, identificar patrones de uso y valores atípicos, construir segmentos de clientes y generar conclusiones útiles para el negocio.
